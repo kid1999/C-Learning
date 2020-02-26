@@ -1,0 +1,7 @@
+F:\Git\C#Learning\Helloword_1\ExecangeNumber_3\bin\Debug\ExecangeNumber_3.exe.config
+F:\Git\C#Learning\Helloword_1\ExecangeNumber_3\bin\Debug\ExecangeNumber_3.exe
+F:\Git\C#Learning\Helloword_1\ExecangeNumber_3\bin\Debug\ExecangeNumber_3.pdb
+F:\Git\C#Learning\Helloword_1\ExecangeNumber_3\obj\Debug\ExecangeNumber_3.csprojAssemblyReference.cache
+F:\Git\C#Learning\Helloword_1\ExecangeNumber_3\obj\Debug\ExecangeNumber_3.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\Helloword_1\ExecangeNumber_3\obj\Debug\ExecangeNumber_3.exe
+F:\Git\C#Learning\Helloword_1\ExecangeNumber_3\obj\Debug\ExecangeNumber_3.pdb

@@ -1,0 +1,7 @@
+F:\Git\C#Learning\Helloword_1\Rectangle_2\bin\Debug\Rectangle_2.exe.config
+F:\Git\C#Learning\Helloword_1\Rectangle_2\bin\Debug\Rectangle_2.exe
+F:\Git\C#Learning\Helloword_1\Rectangle_2\bin\Debug\Rectangle_2.pdb
+F:\Git\C#Learning\Helloword_1\Rectangle_2\obj\Debug\Rectangle_2.csprojAssemblyReference.cache
+F:\Git\C#Learning\Helloword_1\Rectangle_2\obj\Debug\Rectangle_2.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\Helloword_1\Rectangle_2\obj\Debug\Rectangle_2.exe
+F:\Git\C#Learning\Helloword_1\Rectangle_2\obj\Debug\Rectangle_2.pdb

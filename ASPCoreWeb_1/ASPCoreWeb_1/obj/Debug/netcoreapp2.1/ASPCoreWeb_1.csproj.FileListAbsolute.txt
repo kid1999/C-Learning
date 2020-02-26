@@ -1,0 +1,14 @@
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\bin\Debug\netcoreapp2.1\ASPCoreWeb_1.deps.json
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\bin\Debug\netcoreapp2.1\ASPCoreWeb_1.runtimeconfig.json
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\bin\Debug\netcoreapp2.1\ASPCoreWeb_1.runtimeconfig.dev.json
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\bin\Debug\netcoreapp2.1\ASPCoreWeb_1.dll
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\bin\Debug\netcoreapp2.1\ASPCoreWeb_1.pdb
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.csprojAssemblyReference.cache
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.RazorAssemblyInfo.cache
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.RazorAssemblyInfo.cs
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.AssemblyInfoInputs.cache
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.AssemblyInfo.cs
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.RazorTargetAssemblyInfo.cache
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.dll
+F:\Git\C#Learning\ASPCoreWeb_1\ASPCoreWeb_1\obj\Debug\netcoreapp2.1\ASPCoreWeb_1.pdb

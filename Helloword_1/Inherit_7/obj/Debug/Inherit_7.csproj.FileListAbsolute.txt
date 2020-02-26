@@ -1,0 +1,7 @@
+F:\Git\C#Learning\Helloword_1\Inherit_7\bin\Debug\Inherit_7.exe.config
+F:\Git\C#Learning\Helloword_1\Inherit_7\bin\Debug\Inherit_7.exe
+F:\Git\C#Learning\Helloword_1\Inherit_7\bin\Debug\Inherit_7.pdb
+F:\Git\C#Learning\Helloword_1\Inherit_7\obj\Debug\Inherit_7.csprojAssemblyReference.cache
+F:\Git\C#Learning\Helloword_1\Inherit_7\obj\Debug\Inherit_7.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\Helloword_1\Inherit_7\obj\Debug\Inherit_7.exe
+F:\Git\C#Learning\Helloword_1\Inherit_7\obj\Debug\Inherit_7.pdb

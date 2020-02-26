@@ -1,0 +1,7 @@
+F:\Git\C#Learning\Helloword_1\StructTest_6\bin\Debug\StructTest_6.exe.config
+F:\Git\C#Learning\Helloword_1\StructTest_6\bin\Debug\StructTest_6.exe
+F:\Git\C#Learning\Helloword_1\StructTest_6\bin\Debug\StructTest_6.pdb
+F:\Git\C#Learning\Helloword_1\StructTest_6\obj\Debug\StructTest_6.csprojAssemblyReference.cache
+F:\Git\C#Learning\Helloword_1\StructTest_6\obj\Debug\StructTest_6.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\Helloword_1\StructTest_6\obj\Debug\StructTest_6.exe
+F:\Git\C#Learning\Helloword_1\StructTest_6\obj\Debug\StructTest_6.pdb

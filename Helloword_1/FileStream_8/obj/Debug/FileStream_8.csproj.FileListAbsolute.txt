@@ -1,0 +1,7 @@
+F:\Git\C#Learning\Helloword_1\FileStream_8\bin\Debug\FileStream_8.exe.config
+F:\Git\C#Learning\Helloword_1\FileStream_8\bin\Debug\FileStream_8.exe
+F:\Git\C#Learning\Helloword_1\FileStream_8\bin\Debug\FileStream_8.pdb
+F:\Git\C#Learning\Helloword_1\FileStream_8\obj\Debug\FileStream_8.csprojAssemblyReference.cache
+F:\Git\C#Learning\Helloword_1\FileStream_8\obj\Debug\FileStream_8.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\Helloword_1\FileStream_8\obj\Debug\FileStream_8.exe
+F:\Git\C#Learning\Helloword_1\FileStream_8\obj\Debug\FileStream_8.pdb

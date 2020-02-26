@@ -1,0 +1,7 @@
+F:\Git\C#Learning\Helloword_1\Helloword_1\bin\Debug\Helloword_1.exe.config
+F:\Git\C#Learning\Helloword_1\Helloword_1\bin\Debug\Helloword_1.exe
+F:\Git\C#Learning\Helloword_1\Helloword_1\bin\Debug\Helloword_1.pdb
+F:\Git\C#Learning\Helloword_1\Helloword_1\obj\Debug\Helloword_1.csprojAssemblyReference.cache
+F:\Git\C#Learning\Helloword_1\Helloword_1\obj\Debug\Helloword_1.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\Helloword_1\Helloword_1\obj\Debug\Helloword_1.exe
+F:\Git\C#Learning\Helloword_1\Helloword_1\obj\Debug\Helloword_1.pdb

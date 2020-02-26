@@ -1,0 +1,7 @@
+F:\Git\C#Learning\Helloword_1\ArrayList_5\bin\Debug\ArrayList_5.exe.config
+F:\Git\C#Learning\Helloword_1\ArrayList_5\bin\Debug\ArrayList_5.exe
+F:\Git\C#Learning\Helloword_1\ArrayList_5\bin\Debug\ArrayList_5.pdb
+F:\Git\C#Learning\Helloword_1\ArrayList_5\obj\Debug\ArrayList_5.csprojAssemblyReference.cache
+F:\Git\C#Learning\Helloword_1\ArrayList_5\obj\Debug\ArrayList_5.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\Helloword_1\ArrayList_5\obj\Debug\ArrayList_5.exe
+F:\Git\C#Learning\Helloword_1\ArrayList_5\obj\Debug\ArrayList_5.pdb

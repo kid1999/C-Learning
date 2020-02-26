@@ -1,0 +1,30 @@
+﻿@model IEnumerable<WebApplication1.Models.Student>
+
+<html>
+<head>
+    <title>more info </title>
+</head>
+
+<body>
+    <div>
+        @foreach (var student in Model)
+        {
+            <div>
+                name: @student.Name
+            </div>
+            <div>
+                class: @student.ClassName
+            </div>
+            <div>
+                Email: @student.Email
+            </div>
+        }
+    </div>
+ 
+    
+</body>
+
+
+</html>
+
+
