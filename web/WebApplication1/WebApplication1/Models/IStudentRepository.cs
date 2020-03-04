@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace WebApplication1.Models
 {
@@ -9,6 +6,12 @@ namespace WebApplication1.Models
     {
         Student GetStudent(int id);
 
+        void AddStudent(Student student);
+
         IEnumerable<Student> GetStudents();
+
+        Student UpdateStudent(Student updateStudent);
+
+        Student DeleteStudent(int id);
     }
 }

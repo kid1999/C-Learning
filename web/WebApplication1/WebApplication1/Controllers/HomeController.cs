@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Models;
 
@@ -30,15 +28,23 @@ namespace WebApplication1.Controllers
         }
 
         // 返回视图
-        public IActionResult ViewTest()
+        [HttpGet]
+        public IActionResult ViewTest(int id)
         {
-            return View(_studentRepository.GetStudent(1));
+            return View(_studentRepository.GetStudent(id));
         }
 
         public IActionResult ViewMore()
         {
             IEnumerable<Student> model = _studentRepository.GetStudents();
             return View(model);
+        }
+
+        [HttpPost]
+        public JsonResult Create(Student student)
+        {
+            _studentRepository.AddStudent(student);
+            return Json(_studentRepository.GetStudents());
         }
     }
 }

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -19,13 +20,19 @@ namespace WebApplication1
             _configuration = configuration;
         }
 
-
+        // 配置
         public void ConfigureServices(IServiceCollection services)
         {
+            // 添加ORM(Entity Framework)
+            services.AddDbContextPool<AppDbContext>(
+                optionsAction: options => options.UseMySQL(_configuration.GetConnectionString("SqlConfig"))
+                );
+
             // 添加服务
             services.AddMvc();
             // 依赖注入 服务绑定
-            services.AddSingleton<IStudentRepository, MockStudent>();
+            //services.AddSingleton<IStudentRepository, MockStudent>();
+            services.AddScoped<IStudentRepository, SqlStudentRepository>();
         }
 
 

@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace WebApplication1.Models
 {
     public class MockStudent : IStudentRepository
     {
-
         private List<Student> _students;
 
         public MockStudent()
@@ -15,9 +12,19 @@ namespace WebApplication1.Models
             _students = new List<Student>()
             {
                 new Student(){Id=1,Name="kid",ClassName="cs171",Email="dsad"},
-                new Student(){Id=1,Name="kid2",ClassName="cs17s1",Email="dssdadad"},
-                new Student(){Id=1,Name="kid3",ClassName="cs17da1",Email="dd"}
+                new Student(){Id=2,Name="kid2",ClassName="cs17s1",Email="dssdadad"},
+                new Student(){Id=3,Name="kid3",ClassName="cs17da1",Email="dd"}
             };
+        }
+
+        public void AddStudent(Student student)
+        {
+            _students.Add(student);
+        }
+
+        public Student DeleteStudent(int id)
+        {
+            return null;
         }
 
         public Student GetStudent(int id)
@@ -28,6 +35,11 @@ namespace WebApplication1.Models
         public IEnumerable<Student> GetStudents()
         {
             return _students;
+        }
+
+        public Student UpdateStudent(Student student)
+        {
+            return null;
         }
     }
 }
