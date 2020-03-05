@@ -8,6 +8,8 @@ namespace WebApplication1.Models
         {
         }
 
+
+
         // model的管理
         public DbSet<Student> students { get; set; }
     }

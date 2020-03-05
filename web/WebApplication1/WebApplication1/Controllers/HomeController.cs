@@ -18,7 +18,7 @@ namespace WebApplication1.Controllers
         // 返回字符串
         public String Index()
         {
-            return _studentRepository.GetStudent(1).Name;
+            return "Hello world";
         }
 
         // 返回json
