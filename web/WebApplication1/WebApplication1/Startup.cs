@@ -76,7 +76,7 @@ namespace WebApplication1
             app.Run(async (context) =>
             {
                 //throw new Exception("你的请求发生错误！");
-                await context.Response.WriteAsync("hello world");
+                await context.Response.WriteAsync("have worring");
             });
 
 

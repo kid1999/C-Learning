@@ -24,3 +24,11 @@ F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\We
 F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
 F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
 F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewMore.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewTest2.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewLayout.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewStart.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewRouter.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\libman.json

@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "unpkg",
+      "library": "element-ui@2.13.0",
+      "destination": "wwwroot/lib"
+    },
+    {
+      "provider": "unpkg",
+      "library": "vue@2.6.11",
+      "destination": "wwwroot/vue/"
+    }
+  ]
+}

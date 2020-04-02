@@ -28,6 +28,14 @@ namespace WebApplication1.Controllers
         }
 
         // 返回视图
+
+        //弱类型视图 
+        public IActionResult ViewTest2()
+        {
+            ViewBag.context = "弱类型视图内容";
+            return View();
+        }
+        // 强类型视图
         [HttpGet]
         public IActionResult ViewTest(int id)
         {
@@ -40,6 +48,28 @@ namespace WebApplication1.Controllers
             return View(model);
         }
 
+        // 使用全局模板 
+        // 自定义 layout
+        public IActionResult ViewLayout()
+        {
+            return View();
+        }
+
+        // viewStart控制 layout
+        public IActionResult ViewStart()
+        {
+            return View();
+        }
+
+        // 自定义路由
+        [Route("test/{id?}")]
+        public IActionResult ViewRouter(int? id)
+        {
+            ViewBag.id = id ?? 1;
+            return View();
+        }
+
+        // post 方法
         [HttpPost]
         public JsonResult Create(Student student)
         {
