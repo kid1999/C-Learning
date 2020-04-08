@@ -32,3 +32,7 @@ F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Ra
 F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewRouter.cshtml.g.cs
 F:\Git\C#Learning\web\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\libman.json
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.genruntimeconfig.cache
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Index\Test.cshtml.g.cs
+F:\Git\C#Learning\web\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Index\_Layout.cshtml.g.cs

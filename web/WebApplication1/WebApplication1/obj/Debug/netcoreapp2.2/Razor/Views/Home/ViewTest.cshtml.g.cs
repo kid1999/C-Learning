@@ -19,7 +19,7 @@ using WebApplication1.Models;
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7edb67a93f8c82115f3ba4cc63cff056fee6085c", @"/Views/Home/ViewTest.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5b7a7b446882307f86cad7e88cbc8991effffa9e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0cdddd25c3e69039bbb70728fd51658e9e600c7e", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_ViewTest : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<WebApplication1.Models.Student>
     {
         #line hidden
