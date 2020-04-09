@@ -25,7 +25,8 @@ namespace WebApplication1
         {
             // 添加ORM(Entity Framework)
             services.AddDbContextPool<AppDbContext>(
-                optionsAction: options => options.UseMySql(_configuration.GetConnectionString("SqlConfig"))
+                optionsAction: options => options.UseSqlServer(_configuration.GetConnectionString("MsSqlConfig"))
+                // optionsAction: options => options.UseMySql(_configuration.GetConnectionString("MySqlConfig"))
                 );
 
             // 添加服务
