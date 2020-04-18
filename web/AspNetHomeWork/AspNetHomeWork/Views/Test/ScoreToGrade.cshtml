@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "ScoreToGrade";
+}
+
+<h1>转换输入的成绩到等级</h1>
+
+<form action="/togarde" method="post">
+    <input type="number" name="num" placeholder="请输入...." />
+    <button type="submit">转换</button>
+</form>
+
+<p>@ViewBag.context</p>
+
+<br />
+<br />
+
+<div id="app"></div>
+
+
+@section Scripts{
+    <script>
+        for (var r = 1; r <= 9; r++) {  //控制行数
+            var chart = "";
+            for (var c = 1; c <= r; c++) {   //控制列数
+                chart += (`${c}*${r}=${c * r}\t`);
+            }
+            document.write(chart + "<br>");
+        }
+    </script>
+}
+

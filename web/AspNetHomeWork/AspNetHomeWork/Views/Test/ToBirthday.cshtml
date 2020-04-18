@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "ToBirthday";
+}
+
+<h1>ToBirthday</h1>
+
+<form action="/birthday" method="post">
+    <input type="text" name="name" placeholder="请输入...." />
+    <input type="datetime-local" name="birthday" placeholder="请输入...." />
+    <button type="submit">判断</button>
+</form>
+
+<p>@ViewBag.res</p>
+

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetHomeWork", "AspNetHomeWork\AspNetHomeWork.csproj", "{6CBA2DF7-F5BF-4A49-8719-B6D07DDFCBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBA2DF7-F5BF-4A49-8719-B6D07DDFCBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBA2DF7-F5BF-4A49-8719-B6D07DDFCBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBA2DF7-F5BF-4A49-8719-B6D07DDFCBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBA2DF7-F5BF-4A49-8719-B6D07DDFCBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8D49FA-D479-45A7-B77E-9A4E65D3DA6E}
+	EndGlobalSection
+EndGlobal

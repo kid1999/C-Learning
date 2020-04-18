@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "ToSort";
+}
+
+<h1>ToSort</h1>
+
+<form action="/tosort" method="post">
+    <input type="text" name="str" placeholder="请输入...." />
+    <button type="submit">排序</button>
+</form>
+
+<p>@ViewBag.res</p>
+
